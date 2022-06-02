@@ -3,4 +3,14 @@
     <string name="username">Username</string>
     <string name="password">Password</string>
     <string name="login">login</string>
+    <string name="signup">Daftar</string>
+    <string name="email">Email</string>
+    <string name="fullname">Fullname</string>
+    <string name="masuk">Masuk</string>
+    <string name="salam">Halo, senang kembali berjumpa denganmu</string>
+    <string name="sign_up_here">Sign Up</string>
+    <string name="nemeninkamu">NemeninKamu</string>
+    <string name="masukin">Buat akun baru? <u>Masuk</u></string>
+    <string name="belum_daftar">Belum punya akun? <u>Daftar</u></string>
+    <string name="welcome">Welcome</string>
 </resources>
